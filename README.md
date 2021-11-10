@@ -1,0 +1,1 @@
+A program which will take in an array of prices (by day) of a stock.  The program will return an array containing the most profitable days to buy and sell the stock.  Keep in mind the stock must be bought before it can be sold.
